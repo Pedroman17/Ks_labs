@@ -1,0 +1,8 @@
+D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/ModelSim/half_add_lab1.v {1 {vlog -work work D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/ModelSim/half_add_lab1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module half_add
+
+Top level modules:
+	half_add
+
+} {} {}}
