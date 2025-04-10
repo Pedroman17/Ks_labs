@@ -1,0 +1,63 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\KPI\All_labs\SecondYear\SecondHalf\KS-labs\ModelSim
+vEx2_OR
+Z1 !s100 fm^>_C>j94Y;KH@ET4NC10
+Z2 IK]V_IDT_g2jXUU4jC[nl]2
+Z3 VYfliPh^TfB6O=FTZ0CUe30
+Z4 dD:\KPI\All_labs\SecondYear\SecondHalf\KS-labs\Lab_4
+Z5 w1744047656
+Z6 8D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_4/Ex2_Ustimchik_OR.v
+Z7 FD:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_4/Ex2_Ustimchik_OR.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_4/Ex2_Ustimchik_OR.v|
+Z10 o-work work -O0
+Z11 n@ex2_@o@r
+Z12 !s108 1744048205.603000
+Z13 !s107 D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_4/Ex2_Ustimchik_OR.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vf4
+!i10b 1
+!s100 J?1]F@jMSYZlKZF1ShTPd0
+IfhC<Fk>DUSI:X@bbBzDlM3
+Z14 V^4;j_WNIKdJK<N`:5Nj691
+R4
+Z15 w1744312571
+Z16 8D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_4/lab4_2_Ustimchik.v
+Z17 FD:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_4/lab4_2_Ustimchik.v
+L0 2
+R8
+r1
+!s85 0
+31
+Z18 !s108 1744312608.010000
+Z19 !s107 D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_4/lab4_2_Ustimchik.v|
+Z20 !s90 -reportprogress|300|-work|work|D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_4/lab4_2_Ustimchik.v|
+!s101 -O0
+R10
+vf4_1
+!i10b 1
+Z21 !s100 hhW^:nhXKfHAnT=C44Q6W1
+Z22 IHbdJLdOd0>29RkFWO`R2F2
+Z23 VCnW8Im9kHTH[[2Uz[lhgU0
+R4
+R15
+R16
+R17
+L0 9
+R8
+r1
+!s85 0
+31
+R18
+R19
+R20
+!s101 -O0
+R10
