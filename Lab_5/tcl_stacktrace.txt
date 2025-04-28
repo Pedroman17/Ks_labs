@@ -1,0 +1,18 @@
+Sun Apr 27 0:31:28 ????????? (????) 2025
+Trace back: can't read "::vsimPriv(tbarBtnIgnore)": no such element in array
+    while executing
+"if { ! $::vsimPriv(tbarBtnIgnore) } {
+            ButtonInvoke $b $m
+         }"
+    ("release" arm line 8)
+    invoked from within
+"switch $a {
+      "enter" {
+         if { [info exists bmenuDC($b,$m)] } {
+            set bmenuHotspotX [expr {[winfo reqwidth $b] - $downArrow(w2) -..."
+    (procedure "Tbar::BMenu::Action" line 8)
+    invoked from within
+"Tbar::BMenu::Action release .dockbar.tbf8.bookmarks.tb.button_48 .dockbar.tbf8.bookmarks.tb.button_48.menu 21 3 1"
+    (command bound to event)
+  <2: ::tkerror {can't read "::vsimPriv(tbarBtnIgnore)": no such element in array}
+  <1: ::bgerror {can't read "::vsimPriv(tbarBtnIgnore)": no such element in array}
