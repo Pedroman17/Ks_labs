@@ -1,0 +1,138 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\KPI\All_labs\SecondYear\SecondHalf\KS-labs\ModelSim
+vbitsum
+Z1 !s100 c5Fa77Y:CGTa<9Y?Bia`f3
+Z2 IETMoPmQ8TMI6SeK_A`MU_1
+Z3 Vi9NGmz9LhHK1Bn8hXVK7o2
+Z4 dD:\KPI\All_labs\SecondYear\SecondHalf\KS-labs\Lab_6
+Z5 w1746188786
+Z6 8D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_6/my_sum.v
+Z7 FD:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_6/my_sum.v
+L0 19
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s108 1746188792.163000
+Z10 !s107 D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_6/my_sum.v|
+Z11 !s90 -reportprogress|300|-work|work|D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_6/my_sum.v|
+Z12 o-work work -O0
+!i10b 1
+!s85 0
+!s101 -O0
+vmy_sum
+Z13 !s100 2f9aK5<0eggjX7BLz2@Z:3
+Z14 I86DRKe3;nA[3<=A4Wd1oC3
+Z15 V>AYa<]z<eWj:6=M96`WNj3
+R4
+R5
+R6
+R7
+L0 1
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vref_6r_sum
+Z16 !s100 UT[`DF7ko?oJL1Me]if_m2
+Z17 Im:N`m0RUWlg1PCGHLIM>m1
+Z18 VUZTBo]U`b1>QnOVQ7zNG73
+R4
+Z19 w1746187792
+Z20 8D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_6/test_sum.v
+Z21 FD:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_6/test_sum.v
+L0 1
+R8
+r1
+31
+Z22 !s90 -reportprogress|300|-work|work|D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_6/test_sum.v|
+R12
+Z23 !s108 1746187796.955000
+Z24 !s107 D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_6/test_sum.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vref_sum
+Z25 !s100 @Zcl6oabm>i=mz9n0bXh20
+Z26 ICI[G9PP6k:3[IcFc43z0?3
+Z27 V2OO;EahzC8PXB3K:FbSOT0
+R4
+Z28 w1746188788
+Z29 8D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_6/ref_sum.v
+Z30 FD:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_6/ref_sum.v
+L0 1
+R8
+r1
+31
+Z31 !s90 -reportprogress|300|-work|work|D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_6/ref_sum.v|
+R12
+!i10b 1
+!s85 0
+Z32 !s108 1746188792.227000
+Z33 !s107 D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_6/ref_sum.v|
+!s101 -O0
+vsum_1r
+Z34 !s100 ;QWTa>mU3`aX2Hl84l2<z1
+Z35 Ilie_HgV0Q85EhWM2=98G>0
+Z36 VCfBWP>[Z8B73b1;GDAa?Q3
+R4
+Z37 w1746187791
+R29
+R30
+L0 1
+R8
+r1
+31
+R31
+R12
+Z38 !s108 1746187796.912000
+R33
+!i10b 1
+!s85 0
+!s101 -O0
+vsum_6r
+Z39 !s100 O3:nH=JA_Hz689g9a`K?_0
+Z40 IQlXTbP@8WebMgYIc``X5J2
+Z41 V90T<X3C]>MY1Bcgl2jz_i2
+R4
+Z42 w1746187789
+R6
+R7
+L0 1
+R8
+r1
+31
+R11
+R12
+Z43 !s108 1746187796.825000
+R10
+!i10b 1
+!s85 0
+!s101 -O0
+vtest_sum
+!i10b 1
+Z44 !s100 ?AAbF;05>P_iDdo<ee>Y32
+Z45 IRSK5>9@G`[L]9[8j@6nJX1
+Z46 V?[S@XOc7;P58OizZje^Po0
+R4
+R28
+R20
+R21
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1746188792.275000
+!s107 D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_6/test_sum.v|
+R22
+!s101 -O0
+R12

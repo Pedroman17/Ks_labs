@@ -1,0 +1,23 @@
+D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_6/my_sum.v {1 {vlog -work work D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_6/my_sum.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module my_sum
+-- Compiling module bitsum
+
+Top level modules:
+	my_sum
+
+} {} {}} D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_6/test_sum.v {1 {vlog -work work D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_6/test_sum.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module test_sum
+
+Top level modules:
+	test_sum
+
+} {} {}} D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_6/ref_sum.v {1 {vlog -work work D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/Lab_6/ref_sum.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ref_sum
+
+Top level modules:
+	ref_sum
+
+} {} {}}
