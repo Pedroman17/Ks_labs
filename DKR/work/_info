@@ -1,0 +1,62 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\KPI\All_labs\SecondYear\SecondHalf\KS-labs\test_for_lab3_6
+valb
+Z1 IWc[oC`^G<oX_PC[U=B_=U0
+Z2 V2X4CH0S1_7ZT5?5A;4l[_2
+Z3 dD:\KPI\All_labs\SecondYear\SecondHalf\KS-labs\DKR
+Z4 w1747692566
+Z5 8D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/DKR/alb.v
+Z6 FD:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/DKR/alb.v
+L0 2
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 !s100 56>LeSN^5LcJ^;Z:dD2Me3
+Z10 !s108 1747693501.454000
+Z11 !s107 D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/DKR/alb.v|
+Z12 !s90 -reportprogress|300|-work|work|D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/DKR/alb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+valb_tb
+Z13 IRT=1UWIeTWzALGDFlVcC_2
+Z14 V?AiDF<aBfZAb[UE[DOTZe0
+R3
+R4
+Z15 8D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/DKR/alb_tb.v
+Z16 FD:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/DKR/alb_tb.v
+L0 2
+R7
+r1
+31
+R8
+!i10b 1
+Z17 !s100 c?RAXMIGoXM6V987ckImj3
+!s85 0
+Z18 !s108 1747693501.534000
+Z19 !s107 D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/DKR/alb_tb.v|
+Z20 !s90 -reportprogress|300|-work|work|D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/DKR/alb_tb.v|
+!s101 -O0
+vreference_model
+!i10b 1
+!s100 Sz8dhO;PPCdSVQdgD5g_:2
+IYa@RZLI1QjXnfzl1Y`9c?1
+VZ:a[VVE215R0:gD<4`6EQ2
+R3
+R4
+8D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/DKR/reference_model.v
+FD:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/DKR/reference_model.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1747693501.583000
+!s107 D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/DKR/reference_model.v|
+!s90 -reportprogress|300|-work|work|D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/DKR/reference_model.v|
+!s101 -O0
+R8

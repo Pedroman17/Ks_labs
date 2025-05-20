@@ -1,0 +1,22 @@
+D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/DKR/reference_model.v {1 {vlog -work work D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/DKR/reference_model.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module reference_model
+
+Top level modules:
+	reference_model
+
+} {} {}} D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/DKR/alb.v {1 {vlog -work work D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/DKR/alb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module alb
+
+Top level modules:
+	alb
+
+} {} {}} D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/DKR/alb_tb.v {1 {vlog -work work D:/KPI/All_labs/SecondYear/SecondHalf/KS-labs/DKR/alb_tb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module alb_tb
+
+Top level modules:
+	alb_tb
+
+} {} {}}
